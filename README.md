@@ -21,7 +21,7 @@ O projeto é composto por um único arquivo JavaScript que contém a classe `Atl
 
 Para executar o projeto, você precisa ter o Node.js instalado em sua máquina.
 
-1.  Salve o conteúdo do código em um arquivo chamado `atleta_solucao_final_ajustada.js`.
+1.  Salve o conteúdo do código em um arquivo chamado `dados_atletas.js`.
 2.  Abra o terminal na pasta onde o arquivo foi salvo.
 3.  Execute o script com o comando `node`:
 

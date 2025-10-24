@@ -14,7 +14,7 @@ Este projeto estende a solução anterior, implementando uma estrutura orientada
 O projeto é composto por um único arquivo JavaScript que contém a classe `Atleta`, os dados de entrada e a lógica de execução:
 
 .
-└── dados_atletas_final.js
+└── dados_atletas.js
 
 
 ## 🚀 Como Executar

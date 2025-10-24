@@ -25,7 +25,7 @@ Para executar o projeto, você precisa ter o Node.js instalado em sua máquina.
 2.  Abra o terminal na pasta onde o arquivo foi salvo.
 3.  Execute o script com o comando `node`:
 
-        node atleta_solucao_final_ajustada.js
+        node dados_atletas.js
 
 ## 📊 Dados de Entrada (Exemplo)
 O script utiliza o seguinte objeto para instanciar a classe Atleta:
